@@ -178,9 +178,12 @@ ul li {
     left: 102%
 }
 span {
+    width: 70%;
+    text-align:left;
     padding-left: 10px;
 }
 .span {
+    width: 20%;
     padding-top: 10px;
     float: right;
 }
